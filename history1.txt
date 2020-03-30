@@ -1,0 +1,628 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  sudo apt dist-upgrade
+    4  sudo apt install albert
+    5  sudo apt install chromium
+    6  sudo apt install chrome
+    7  sudo apt install firefox
+    8  sudo apt upgrade firefox
+    9  sudo apt upgrade
+   10  sudo apt install smplayer
+   11  sudo apt install libqt5gui5 libqt5widgets5
+   12  sudo apt install libqt5gui5
+   13  sudo nano /etc/apt/sources.list
+   14  sudo apt update
+   15  sudo apt upgrad
+   16  sudo apt upgrade
+   17  sudo apt update
+   18  sudo nano /etc/apt/sources.list
+   19  sudo apt update
+   20  sudo apt upgrade
+   21  sudo apt install chromium
+   22  sudo apt install chromium-browser
+   23  sudo apt install albert
+   24  sudo add-apt-repository ppa:nilarimogard/webupd8
+   25  sudo apt update
+   26  sudo apt install albert
+   27  sudo dpkg -i *.deb
+   28  sudo apt install -f
+   29  sudo apt-get install chromium
+   30  sudo apt-get install chromium-bsu
+   31  ls
+   32  sudo apt install albert_0.13.1+plugins1-1~webupd8~xenial2_amd64.deb
+   33  sudo dpkg -i albert_0.13.1+plugins1-1~webupd8~xenial2_amd64.deb
+   34  sudo apt install -f
+   35  wget http://ppa.launchpad.net/flexiondotorg/albert/ubuntu/pool/main/a/albert/albert_0.11.1-1~ppa1.0_amd64.deb
+   36  sudo apt install netbeans
+   37  java -version
+   38  sudo apt-get install openjdk-8-jdk
+   39  sudo update-alternatives --config javac
+   40  java -version
+   41  sudo update-alternatives --config javac
+   42  javac -version
+   43  sudo update-alternatives --config java
+   44  java -version
+   45  netbeans
+   46  reboot
+   47  sudo chmod +x install.sh 
+   48  ./install.sh 
+   49  sudo ./install.sh 
+   50  sudo netbeans
+   51  sudo apt autoremove netbeans
+   52  sudo update-alternatives --config java
+   53  sudo update-alternatives --config javac
+   54  suudo chmod +x xampp-linux-x64-7.3.6-3-installer.run 
+   55  sudo chmod +x xampp-linux-x64-7.3.6-3-installer.run 
+   56  ./xampp-linux-x64-7.3.6-3-installer.run 
+   57  sudo ./xampp-linux-x64-7.3.6-3-installer.run 
+   58  lampp
+   59  xampp
+   60  sudo chmod +x netbeans-8.2-linux.sh
+   61  ./netbeans-8.2-linux.sh 
+   62  sudo apt-get install gksu
+   63  sudo apt-get install gksudo
+   64  sudo lampp
+   65  lampp
+   66  sudo ./lampp
+   67  sudo /lampp
+   68  sudo ../lampp
+   69  sudo ../lampp start
+   70  sudo ../lampp stop
+   71  sudo ../lampp panel
+   72  sudo ../lampp stop
+   73  sudo apt install plank
+   74  plank
+   75  pip install mysqlclient
+   76  pip3 install mysqlclient
+   77  pip3 install djangorestframework
+   78  sudo chmod +x pycharm.sh
+   79  ./pycharm.sh 
+   80  sudo update-alternatives --config python
+   81  sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.6 2
+   82  sudo update-alternatives --config python
+   83  sudo update-alternatives  --set python /usr/bin/python3.6
+   84  sudo update-alternatives --config python
+   85  sudo apt install python-pip
+   86  sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.6 2
+   87  sudo update-alternatives --config python
+   88  sudo apt-get install python3-distutils
+   89  sudo apt-get install libmysqlclient-dev
+   90  sudo apt install python3-pip
+   91  sudo apt install telegram-desktop
+   92  sudo apt install telegram
+   93  sudo snap install telegram-desktop
+   94  sudo snap install albert
+   95  sudo apt install albert
+   96  sudo snap install chromium
+   97  sudo snap install insomnia
+   98  ifconfig
+   99  ip link
+  100  ./pycharm.sh 
+  101  if config; exit; close
+  102  ip link
+  103  sudo apt install smplayer
+  104  snap smplayer
+  105  snap install smplayer
+  106  sudo apt install vlc
+  107  sudo apt update
+  108  sudo apt upgrade
+  109  sudo apt update
+  110  sudo apt upgrade
+  111  sudo apt upgrade -y
+  112  sudo apt dist-upgrade
+  113  sudo apt autoremove
+  114  sudo apt install smplayer
+  115  ls
+  116  chmod +x Shadowsocks-Qt5-3.0.1-x86_64.AppImage
+  117  ./Shadowsocks-Qt5-3.0.1-x86_64.AppImage
+  118  cd ..
+  119  sudo apt install shadowsocks-qt5
+  120  sudo apt-get install --no-install-recommends build-essential autoconf libtool libssl-dev libpcre3-dev libev-dev asciidoc xmlto automake
+  121  git clone https://github.com/shadowsocks/simple-obfs.git
+  122  sudo apt install git
+  123  git clone https://github.com/shadowsocks/simple-obfs.git
+  124  cd simple-obfs
+  125  git submodule update --init --recursive
+  126  ./autogen.sh
+  127  ./configure && make
+  128  sudo make install
+  129  make install
+  130  sudo make install
+  131  cd ..
+  132  ls
+  133  ./Shadowsocks-Qt5-3.0.1-x86_64.AppImage
+  134  sudo su
+  135  if link; exit
+  136  ip link
+  137  ssh
+  138  ssh root@192.168.2.1
+  139  ssh 192.168.2.1
+  140  ssh 192.168.2.1 22
+  141  ssh 192.168.2.122
+  142  ssh 192.168.2.1:22
+  143  chromium-browser --no-proxy-server
+  144  chromium-browser --no-proxy
+  145  man chromium-browser
+  146  chromium-browser --proxy-auto-detect
+  147  man chromium-browser
+  148  chromium-browser --no-sandbox
+  149  chromium-browser --enable-features="dns-over-https<DoHTrial" --force-fieldtrials="DoHTrial/Group1" --force-fieldtrial-params="DoHTrial.Group1:server/https%3A%2F%2F1.1.1.1%2Fdns-query/method/POST
+  150  start
+  151  chromium-browser --enable-features="dns-over-https<DoHTrial" --force-fieldtrials="DoHTrial/Group1" --force-fieldtrial-params="DoHTrial.Group1:server/https%3A%2F%2F1.1.1.1%2Fdns-query/method/POST
+  152  sudo apt install chrome
+  153  sudo apt install chrome-browser
+  154  sudo apt install google-chrome-stable
+  155  wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+  156  deb http://dl.google.com/linux/deb/ stable main
+  157  sudo nano /etc/apt/sources.list
+  158  sudo apt update
+  159  sudo apt install google-chrome-stable
+  160  man google-chrome-stable
+  161  ssh
+  162  ssh root@192.168.2.1
+  163  ssh 192.168.2.1
+  164  ssh-keygen -f "/home/evanz/.ssh/known_hosts" -R "192.168.2.1"
+  165  ssh 192.168.2.1
+  166  ssh root@192.168.2.1
+  167  ln
+  168  ln --help
+  169  ls
+  170  mkdir evan
+  171  ls
+  172  ln evan fauzi
+  173  ln --help
+  174  ls
+  175  rm evan
+  176  rm -R evan
+  177  ls
+  178  touch evan.txt
+  179  ls
+  180  ln evan.txt fauzi
+  181  nano fauzi
+  182  ls
+  183  rm fauzi
+  184  ls
+  185  ln -s evan.txt fauzi
+  186  ls
+  187  rm fauzi
+  188  ls
+  189  touch vip3.json
+  190  ssh root@192.168.2.1
+  191  chmod 777 ck-client
+  192  ls
+  193  openvpn
+  194  sudo apt install openvpn
+  195  ./ck-client -c vip3.json -s 103.102.1.154 -p 443
+  196  openvpn --config vip03.ovpn
+  197  ifconfig
+  198  ssh root@192.168.0.1
+  199  sudo su
+  200  tar -help
+  201  tar --help
+  202  tar -xf EventHandling.rar
+  203  rar
+  204  sudo apt install rar
+  205  sudo apt install unrar
+  206  unrar
+  207  unrar EventHandling.rar
+  208  rar 
+  209  unrar e EventHandling.rar
+  210  unrar x EventHandling.rar
+  211  ./studio.sh 
+  212  sudo su
+  213  git
+  214  git config --global user.name "pranendra"
+  215  git config --global user.email "samuel.benner@my.gavilan.edu"
+  216  git init
+  217  sudo su
+  218  ./spoon.sh
+  219  sudo apt-get install libwebkitgtk-1.0-0
+  220  sudo su
+  221  ./spoon.sh
+  222  sudo su
+  223  ssh 192.168.0.1
+  224  tm -r .ssh
+  225  rm -r .ssh
+  226  ssh 192.168.0.1
+  227  ssh root@192.168.0.1
+  228  sudo su
+  229  sudo apt-get install wget ca-certificates
+  230  wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+  231  sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ `lsb_release -cs`-pgdg main" >> /etc/apt/sources.list.d/pgdg.list'
+  232  sudo su
+  233  exit
+  234  sudo su
+  235  history > history.txt
+  236  sudo su
+  237  ./uninstall.sh 
+  238  java 
+  239  java -version
+  240  sudo update-alternatives --config java
+  241  sudo update-alternatives --config javac
+  242  chmod +x ./netbeans-8.2-linux(1).sh
+  243  chmod +x ./netbeans-8.2-linux1.sh
+  244  ./netbeans-8.2-linux1.sh
+  245  sudo su
+  246  cd /opt/
+  247  cd lampp
+  248  cd htdocs
+  249  cd rental-mobil
+  250  cd admin/page/
+  251  ls
+  252  chmod +r mobil.php
+  253  sudo chmod +r mobil.php
+  254  sudo chmod +w mobil.php
+  255  sudo chmod +x mobil.php
+  256  cd ../../
+  257  cd ..
+  258  ls
+  259  sudo chmod -R ugo+rwx rental-mobil
+  260  history >> chmod-xampp.txt
+  261  sudo history >> chmod-xampp.txt
+  262  sudo history > chmod-xampp.txt
+  263  history > chmod-xampp.txt
+  264  history >> lampp.txt
+  265  sudo history >> lampp.txt
+  266  sudo history >> lampp
+  267  sudo history >> lampp.txt
+  268  sudo chmod -R ugo+rwx uts-kdj
+  269  git init
+  270  git add *
+  271  git commit -m "finish"
+  272  git remote add origin "https://github.com/pranendra/web2-pdo.git"
+  273  git pull origin master
+  274  git pull origin master --allow-unrelated-histories
+  275  git pull origin master -allow-unrelated-histories
+  276  git pull origin master --allow-unrelated-histories
+  277  git remote add origin "https://github.com/pranendra/web2-pdo.git"
+  278  git pull origin master
+  279  git commit -a -m "selesai"
+  280  git pull origin master
+  281  git pull origin master --allow-unrelated-histories
+  282  git commit -a -m "selesai"
+  283  git pull origin master --allow-unrelated-histories
+  284  git push origin master
+  285  git init
+  286  git add *
+  287  git commit -m "kelompok 4"
+  288  git remote add origin "https://github.com/pranendra/web2pdo-kel.git"
+  289  git pull origin master
+  290  git pull origin master --allow-unrelated-histories
+  291  git push origin master
+  292  git config --global user.name "pranendra"
+  293  git config --global user.email "samuel.benner@my.gavilan.edu"
+  294  git init
+  295  git add *
+  296  git commit -m "selesai"
+  297  git add CodingGabungan
+  298  git commit -m "selesai"
+  299  git remote add origin "https://github.com/pranendra/web2pdo-kel.git"
+  300  git remote add origin "https://github.com/pranendra/tugas03_PDO.git"
+  301  git pull origin master
+  302  git pull origin master --allow-unrelated-histories
+  303  git push origin master
+  304  git config --global user.name "pranendra"
+  305  git config --global user.email "samuel.benner@my.gavilan.edu"
+  306  git init
+  307  git add *
+  308  git rm -- cached CodingGabungan
+  309  git add *
+  310  git commit -m "selesai"
+  311  git remote add origin "https://github.com/pranendra/tugas03_PDO.git"
+  312  git pull origin master
+  313  git pull origin master --allow-unrelated-histories
+  314  git push origin master
+  315  git add *
+  316  git commit -m "selesai"
+  317  sudo su
+  318  ls
+  319  chmod +x xampp-linux-x64-5.6.40-1-installer.run 
+  320  ./xampp-linux-x64-5.6.40-1-installer.run 
+  321  sudo ./xampp-linux-x64-5.6.40-1-installer.run 
+  322  ./spoon.sh
+  323  ping google.com
+  324  sudo su
+  325  ./idea.sh 
+  326  dpkg -i *.deb
+  327  sudo dpkg -i *.deb
+  328  killall 5739
+  329  sudo su
+  330  sudo chmod -R ugo+rwx nendrastore
+  331  exit
+  332  ls
+  333  chmod +x bitnami-wordpress-5.3-0-module-linux-x64-installer.run 
+  334  ./bitnami-wordpress-5.3-0-module-linux-x64-installer.run 
+  335  sudo ./bitnami-wordpress-5.3-0-module-linux-x64-installer.run 
+  336  sudo su
+  337  ls
+  338  ./pycharm.sh 
+  339  pip install summa
+  340  pip install scipy
+  341  textrank
+  342  textrank -t
+  343  ls
+  344  python setup.py
+  345  cd summa
+  346  ls
+  347  textrank
+  348  cd ..
+  349  ls
+  350  ./pycharm.sh 
+  351  sudo su
+  352  ls
+  353  touch isi-app-uas.txt
+  354  keytool
+  355  keytool -list -v -keystore keyapp.jks 
+  356  keytool -list -v -importcert -file deployment_cert.der -keystore keyapp.jks 
+  357  keytool -v -importcert -file deployment_cert.der -keystore keyapp.jks 
+  358  keytool -list -v -keystore keyapp.jks 
+  359  keytool -importcert -alias mykey -file deployment_cert.der -keystore setifikat.jks -storepass anj4piz001
+  360  keytool -list -v -keystore sertifikat.jks
+  361  keytool -list -v -keystore setifikat.jks
+  362  keytool -list -v -keystore sertifikat.jks
+  363  keytool -importcert -alias mykey -file deployment_cert.der -keystore sertifikat.jks -storepass anj4piz001 -keypass anj4piz001
+  364  keytool -importcert -alias mykey -file deployment_cert.der -keystore setifikat.jks -storepass anj4piz001 -keypass anj4piz001
+  365  keytool
+  366  keytool -importcert -alias mykey -file deployment_cert.der -keystore setifikat.jks -storepasswd anj4piz001 -keypasswd anj4piz001
+  367  keytool -importcert -alias mykey -file deployment_cert.der -keystore setifikat.jks -storepasswd anj4piz001
+  368  keytool -importcert -alias mykey -file deployment_cert.der -keystore setifikat.jks -
+  369  keytool -importcert -alias mykey -file deployment_cert.der -keystore setifikat.jks -storepasswd anj4piz001
+  370  ./studio.sh 
+  371  ./pycharm.sh 
+  372  ./idea.sh 
+  373  touch contoh.txt
+  374  touch hasil.txt
+  375  ./pycharm.sh 
+  376  ./idea.sh 
+  377  ./studio.sh 
+  378  ./idea.sh 
+  379  sudo su
+  380  ifconfig
+  381  iwlist wlp2s0 scan
+  382  iwconfig wlp2s0 essid "SDN 03" key "elementaryschool"
+  383  sudo iwconfig wlp2s0 essid "SDN 03" key "elementaryschool"
+  384  iwconfig wlp2s0 essid"SDN 03"key "elementaryschool"
+  385  iwconfig wlp2s0 essid"SDN 03" key "elementaryschool"
+  386  iwconfig
+  387  iwconfig --help
+  388  iwconfig wlp2s0 essid {SDN 03} key {elementaryschool}
+  389  sudo iwconfig wlp2s0 essid {SDN 03} key {elementaryschool}
+  390  sudo iwconfig wlp2s0 essid "SDN 03" key "elementaryschool"
+  391  sudo iwconfig wlp2s0 essid "SDN 03"
+  392  sudo iwconfig wlp2s0 key "elementaryschool"
+  393  sudo iwconfig wlp2s0 essid "SDN 03"
+  394  sudo dhclient wlp2s0
+  395  dhcpd
+  396  dhcpcd
+  397  sudo dhclient wlp2s0
+  398  sudo su
+  399  iwlist wlp2s0 scan
+  400  sudo su
+  401  help
+  402  help
+  403  color a
+  404  help
+  405  apt upgrade
+  406  sudo su
+  407  openvpn
+  408  ls
+  409  openvpn tcp-sg.ovpn
+  410  sudo su
+  411  composer global require "laravel/installer=~1.1"
+  412  cd /home/evanz/.config/composer
+  413  ls
+  414  composer global require "laravel/installer=~1.1"
+  415  ls
+  416  composer global require "laravel/installer=~1.1"
+  417  laravel -v
+  418  cd ~/
+  419  ls
+  420  cd ./bashrc
+  421  nano .bashrc
+  422  laravel -v
+  423  composer global require laravel/installer
+  424  cd /etc/php/7.2/cli/conf.d/
+  425  ls
+  426  cd ../../
+  427  cd ../
+  428  sudo su
+  429  composer global require laravel/installer
+  430  php composer.phar update
+  431  php composer.phar update
+  432  composer remove vendor/laravel
+  433  composer update
+  434  laravel -v
+  435  laravel -h
+  436  cd ~/
+  437  ls
+  438  cd LaravelProject/
+  439  ls
+  440  laravel new coba
+  441  php --ini
+  442  nano /etc/php/7.2/cli/php.ini
+  443  touch info.php
+  444  nano info.php
+  445  composer create-project --prefer-dist laravel/laravel blog
+  446  composer create-project --prefer-dist laravel/laravel projectakhir
+  447  laravel new project2
+  448  composer create-project --prefer-dist laravel/laravel project3
+  449  composer create-project --prefer-dist laravel/laravel project4
+  450  composer create-project --prefer-dist laravel/laravel projectakhir/
+  451  cd ~/
+  452  sudo su
+  453  laravel new buat
+  454  ls
+  455  sudo ./buildconf 
+  456  sudo ./configure 
+  457  pkg-config
+  458  sudo su
+  459  ping xnxx.com
+  460  cd /var/
+  461  ls
+  462  cd www/
+  463  cd html/
+  464  ks
+  465  ls
+  466  composer
+  467  composer create-project --prefer-dist laravel/laravel projek
+  468  sudo chmod 777 .
+  469  composer create-project --prefer-dist laravel/laravel projek
+  470  sudo apt install php7.2-common php7.2-cli php7.2-gd php7.2-mysql php7.2-curl php7.2-intl php7.2-mbstring php7.2-bcmath php7.2-imap php7.2-xml php7.2-zip
+  471  composer create-project --prefer-dist laravel/laravel projekku
+  472  composer create-project --prefer-dist laravel/laravel projek1
+  473  ls
+  474  cd projek1
+  475  php artisan serve
+  476  sudo su
+  477  sudo apt update
+  478  env | grep -i proxy
+  479  http_proxy
+  480  export
+  481  nano /etc/profile
+  482  sudo nano /etc/profile
+  483  sudo apt update
+  484  sudo nano /etc/profile
+  485  php artisan serve
+  486  ls
+  487  composer install
+  488  ls
+  489  php artisan serve
+  490  php artisan key:generate
+  491  php artisan serve
+  492  cd
+  493  sudo service apache2 stop
+  494  cd LaravelProject/project
+  495  cd LaravelProject/project3
+  496  php artisan serve
+  497  composer update
+  498  php artisan serve
+  499  sudo service apache2 restart
+  500  php artisan serve
+  501  composer update
+  502  php artisan serve
+  503  composer update
+  504  php artisan serve
+  505  php artisan key:generate
+  506  php artisan serve
+  507  ls
+  508  ls -la
+  509  sudo su
+  510  composer create-project --prefer-dist laravel/laravel blog
+  511  cd ..
+  512  ls
+  513  mv LaravelProject/ /opt/lampp/htdocs/
+  514  sudo mv LaravelProject/ /opt/lampp/htdocs/
+  515  sudo su
+  516  clear
+  517  cd /opt/lampp/htdocs/LaravelProject/
+  518  ls
+  519  composer update
+  520  cd ..
+  521  sudo mv LaravelProject/ ~
+  522  sudo su
+  523  chown -R evanz:evanz project3
+  524  ls -la
+  525  chmod -R 777 project3/storage/
+  526  chmod -R 777 project3/bootstrap/cache/
+  527  cd project3/
+  528  ls -la
+  529  chmod -R 777 storage/
+  530  cd storage/logs/
+  531  ls -la
+  532  chown www-data:www-data laravel.log 
+  533  ls -la
+  534  cd ~/
+  535  cd /home/evanz/LaravelProject/
+  536  ls
+  537  ls -la
+  538  cd project3/
+  539  ls
+  540  ls -la
+  541  chmod -R 777 storage/
+  542  chmod -R 777 bootstrap/cache/
+  543  cd /etc/
+  544  nano hosts
+  545  cd /etc/apache2/
+  546  ls
+  547  cd ..
+  548  nano hosts
+  549  php artisan serve
+  550  ls
+  551  composer update
+  552  cd ..
+  553  composer create-project --prefer-dist laravel/laravel projekk
+  554  php artisan serve
+  555  ls
+  556  cd projekk
+  557  php artisan serve
+  558  sudo su
+  559  shutdown -s
+  560  shutdown -h
+  561  shutdown -c
+  562  shutdown -help
+  563  shutdown --help
+  564  shutdown
+  565  shutdown -c
+  566  shutdown -p
+  567  shutdown -P
+  568  shutdown -c
+  569  shutdown now
+  570  ls
+  571  chmod +x UnityHub.AppImage 
+  572  ls
+  573  sudo su
+  574  ./UnityHub.AppImage 
+  575  sudo su
+  576  cls
+  577  clear
+  578  sudo su
+  579  sudo apt autoremove
+  580  composer install
+  581  php artisan serve
+  582  sudo su
+  583  php artisan serve
+  584  cd ..
+  585  cd project3
+  586  ls
+  587  php artisan serve
+  588  php artisan config:cache
+  589  php artisan serve
+  590  composer update
+  591  sudo chown -R evanz:evanz projek123
+  592  ls
+  593  ls -a
+  594  ls -l
+  595  chmod 777 vendor/
+  596  ls -l
+  597  cd vendor/
+  598  ls
+  599  ls -l
+  600  cd ../
+  601  php artisan cache:clear
+  602  php artisan config:clear
+  603  ls -la
+  604  sudo su
+  605  ls
+  606  ./blender
+  607  ls
+  608  python3 setup.py install
+  609  python setup.py install
+  610  ls
+  611  cd bin
+  612  ls
+  613  ./kazam 
+  614  cd ..
+  615  ls
+  616  sudo su
+  617  ./configure 
+  618  ./configure --disable-x86asm
+  619  make
+  620  make install
+  621  sudo su
+  622  ./simple-build-and-install 
+  623  composer create-project --prefer-dist laravel/laravel tugaslaravel "6.*"
+  624  sudo su
+  625  ls
+  626  cd tugaslaravel
+  627  sudo su
+  628  history >> history1.txt

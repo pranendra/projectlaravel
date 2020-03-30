@@ -1,0 +1,581 @@
+    1  apt install putty
+    2  apt install krusader
+    3  apt install secpanel
+    4  apt install filezilla
+    5  apt remove krusader
+    6  apt autoremove
+    7  apt update
+    8  apt upgrade
+    9  apt dist-upgrade
+   10  apt install vlc
+   11  apt install clementine
+   12  apt remove chromium
+   13  apt remove chromium-browser
+   14  apt autoremove
+   15  apt install chromium-browser
+   16  apt install adobe-flashplugin
+   17  man chromium-browser
+   18  chromium-browser --no-proxy-server
+   19  exit
+   20  apt update
+   21  apt upgrade
+   22  apt update
+   23  apt upgrade
+   24  apt dist-upgrade
+   25  apt autoremove
+   26  apt update
+   27  apt upgrade
+   28  apt update
+   29  apt upgrade
+   30  apt install bittorrent
+   31  apt install bittorrent-gui
+   32  apt install utorrent
+   33  snap utorrent
+   34  snap help
+   35  snap install utorrent
+   36  ./studio.sh 
+   37  apt update
+   38  apt upgrade
+   39  apt install git
+   40  apt autoremove
+   41  ./studio.sh 
+   42  git init
+   43  git add *
+   44  git add * -f
+   45  git commit -m "GojekAndroid"
+   46  git config --global user.name "pranendra"
+   47  git config --global user.email "samuel.benner@my.gavilan.edu"
+   48  git commit -m "GojekAndroid"
+   49  git remote add origin "https://github.com/pranendra/GojekAndroid"
+   50  git pull origin master
+   51  git pull origin master --allow-unrelated-histories
+   52  git push origin master
+   53  apt update
+   54  apt upgrade
+   55  apt dist-upgrade
+   56  apt autoremove
+   57  ./spoon.sh
+   58  ./studio.sh 
+   59  apt install sublime
+   60  apt install sublime-text
+   61  apt install sublime-text3
+   62  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+   63  sudo apt-get install apt-transport-https
+   64  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+   65  apt update
+   66  apt install sublime-text
+   67  gksu FileManager
+   68  FileManager
+   69  exo-open --launch FileManager %u
+   70  exo-open --launch FileManager
+   71  ./spoon.sh
+   72  ./studio.sh 
+   73  exo-open --launch FileManager
+   74  ./studio.sh 
+   75  apt update
+   76  apt upgrade
+   77  apt dist-upgrade
+   78  apt autoremove
+   79  ./studio.sh 
+   80  exo-open --launch FileManager
+   81  apt update
+   82  apt-get install postgresql postgresql-contrib
+   83  sudo su - postgres
+   84  apt upgrade
+   85  apt dist-upgrade
+   86  exiy
+   87  exit
+   88  ./studio.sh 
+   89  ./spoon..sh
+   90  ./spoon.sh
+   91  git init
+   92  git add *
+   93  git commit -m "dicoding"
+   94  git remote add origin "https://github.com/pranendra/lulus-dicoding.git"
+   95  git pull origin master
+   96  git pull origin master --allow-unrelated-histories
+   97  git push origin master
+   98  apt update
+   99  apt upgrade
+  100  apt dist-upgrade
+  101  apt autoremove
+  102  exo-open --launch FileManager %u
+  103  exo-open --launch FileManager
+  104  apt update
+  105  apt upgrade
+  106  apt dist-upgrade
+  107  apt install libreoffice
+  108  apt upgrade
+  109  apt update
+  110  apt upgrade
+  111  apt dist-upgrade
+  112  apt autoremove
+  113  apt update
+  114  apt install okular
+  115  apt 
+  116  apt update
+  117  apt upgrade
+  118  apt update
+  119  apt upgrade
+  120  apt install inkscape
+  121  apt install gparted
+  122  exo-open --launch FileManager %u
+  123  exo-open --launch FileManager
+  124  apt update
+  125  apt upgrade
+  126  apt dist-upgrade
+  127  apt autoremove
+  128  apt update
+  129  apt upgrade
+  130  apt update
+  131  apt upgrade
+  132  apt dist-upgrade
+  133  apt autoremove
+  134  apt install adobe-flashplugin browser-plugin-freshplayer-pepperflash
+  135  apt update
+  136  apt install adobe-flashplugin browser-plugin-freshplayer-pepperflash
+  137  apt upgrade
+  138  apt dist-upgrade
+  139  apt autoremove
+  140  apt update
+  141  apt upgrade
+  142  apt dist-upgrade
+  143  apt autoremove
+  144  apt update
+  145  apt upgrade
+  146  apt dist-upgrade
+  147  apt autoremove
+  148  apt update
+  149  apt upgrade
+  150  apt dist-upgrade
+  151  apt autoremove
+  152  reboot
+  153  apt update
+  154  apt upgrade
+  155  apt dist-upgrade
+  156  apt autoremove
+  157  apt update
+  158  apt install composer
+  159  apt install git
+  160  apt-get install php5-json
+  161  composer global require "laravel/installer=~1.1"
+  162  exit
+  163  sudo apt-get install php7.0-zip
+  164  sudo apt-get install php7.4-zip
+  165  sudo apt-get install php7.2-zip
+  166  exit
+  167  sudo nano /etc/apache2/sites-available/sampledomain.com.conf
+  168  systemctl status apache2
+  169  update-alternatives --set php
+  170  update-alternatives --set php /opt/lampp/bin/php-7.3.6
+  171  update-alternatives --set php /opt/lampp/bin/php
+  172  apt install apache
+  173  apt install apache2
+  174  apache2 -version
+  175  ufw app list
+  176  ufw allow 'Apache
+  177  ufw allow 'Apache'
+  178  ufw status
+  179  systemctl status apache2
+  180  hostname -I
+  181  systemctl stop apache2
+  182  hostname -I
+  183  systemctl status apache2
+  184  systemctl start apache2
+  185  hostname -I
+  186  sudo su
+  187  apt install php-7.4.3
+  188  apt install php-7.4
+  189  apt install php
+  190  apt install php7.4
+  191  apt install python-software-properties
+  192  add-apt-repository ppa:ondrej/php
+  193  exit
+  194  apt install pkg-config
+  195  ./configure 
+  196  apt install libxml-2.0
+  197  apt install libxml2.0
+  198  apt install libxml2-dev
+  199  ./configure 
+  200  apt install sqlite3
+  201  ./configure 
+  202  apt install libsqlite3-dev
+  203  apt-cache policy sqlite3
+  204  ./configure 
+  205  update-alternatives --set php
+  206  update-alternatives --set php /user/bin/php7.4
+  207  update-alternatives --set php /user/bin/php
+  208  apt show php -a
+  209  make
+  210  make install
+  211  update-alternatives --set php /usr/local/bin/php
+  212  update-alternatives --set php /usr/bin/php
+  213  php -v
+  214  apt install php7.4-zip
+  215  apt install php-zip
+  216  php artisan serve
+  217  php artisan key
+  218  php artisan serve
+  219  cd LaravelProject/
+  220  ls
+  221  cd blog/
+  222  php artisan serve
+  223  ls
+  224  cd ../
+  225  ls
+  226  cd blog/
+  227  ls
+  228  ls -a
+  229  exit
+  230  apt install libeay32
+  231  service apache2 stop
+  232  apt update
+  233  apt upgrade
+  234  apt dist-upgrade
+  235  apt autoremove
+  236  exit
+  237  ls
+  238  ./UnityHub.AppImage 
+  239  exit
+  240  apt update
+  241  apt install blender
+  242  exit
+  243  apt update
+  244  apt upgrade
+  245  apt dist-upgrade
+  246  exit
+  247  service stop apache2
+  248  services stop apache2
+  249  systemctl stop apache2
+  250  apt update
+  251  apt upgrade
+  252  apt dist-upgrade
+  253  apt autoremove
+  254  apt remove blender
+  255  apt autoremove
+  256  python3 setup.py install
+  257  exit
+  258  python3 setup.py install
+  259  chmod +x setup.py
+  260  python3 setup.py install
+  261  ls
+  262  chmod +x setup.cfg
+  263  ./setup.cfg
+  264  ./setup.py
+  265  make install
+  266  composer create-project --prefer-dist laravel/laravel tugaslaravel "6.*"
+  267  php artisan serve
+  268  php artisan ser
+  269  exit
+  270  php artisan serve
+  271  systemctl stop apache2
+  272  cd ..
+  273  ls
+  274  ls -la
+  275  chmod +rwx tugaslaravel
+  276  ls -la
+  277  chown -R evan:evan tugaslaravel
+  278  chown -R evanz:evanz tugaslaravel
+  279  cd tugaslaravel/
+  280  chown -R $USER:www-data storage
+  281  chown -R $USER:www-data bootstrap/cache
+  282  chmod -R 775 storage
+  283  chmod -R 775 bootstrap/cache
+  284  php artisan key
+  285  sudo chgrp -R www-data storage bootstrap/cache
+  286  sudo chmod -R ug+rwx storage bootstrap/cache
+  287  history >> history.txt
+    1  apt install putty
+    2  apt install krusader
+    3  apt install secpanel
+    4  apt install filezilla
+    5  apt remove krusader
+    6  apt autoremove
+    7  apt update
+    8  apt upgrade
+    9  apt dist-upgrade
+   10  apt install vlc
+   11  apt install clementine
+   12  apt remove chromium
+   13  apt remove chromium-browser
+   14  apt autoremove
+   15  apt install chromium-browser
+   16  apt install adobe-flashplugin
+   17  man chromium-browser
+   18  chromium-browser --no-proxy-server
+   19  exit
+   20  apt update
+   21  apt upgrade
+   22  apt update
+   23  apt upgrade
+   24  apt dist-upgrade
+   25  apt autoremove
+   26  apt update
+   27  apt upgrade
+   28  apt update
+   29  apt upgrade
+   30  apt install bittorrent
+   31  apt install bittorrent-gui
+   32  apt install utorrent
+   33  snap utorrent
+   34  snap help
+   35  snap install utorrent
+   36  ./studio.sh 
+   37  apt update
+   38  apt upgrade
+   39  apt install git
+   40  apt autoremove
+   41  ./studio.sh 
+   42  git init
+   43  git add *
+   44  git add * -f
+   45  git commit -m "GojekAndroid"
+   46  git config --global user.name "pranendra"
+   47  git config --global user.email "samuel.benner@my.gavilan.edu"
+   48  git commit -m "GojekAndroid"
+   49  git remote add origin "https://github.com/pranendra/GojekAndroid"
+   50  git pull origin master
+   51  git pull origin master --allow-unrelated-histories
+   52  git push origin master
+   53  apt update
+   54  apt upgrade
+   55  apt dist-upgrade
+   56  apt autoremove
+   57  ./spoon.sh
+   58  ./studio.sh 
+   59  apt install sublime
+   60  apt install sublime-text
+   61  apt install sublime-text3
+   62  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+   63  sudo apt-get install apt-transport-https
+   64  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+   65  apt update
+   66  apt install sublime-text
+   67  gksu FileManager
+   68  FileManager
+   69  exo-open --launch FileManager %u
+   70  exo-open --launch FileManager
+   71  ./spoon.sh
+   72  ./studio.sh 
+   73  exo-open --launch FileManager
+   74  ./studio.sh 
+   75  apt update
+   76  apt upgrade
+   77  apt dist-upgrade
+   78  apt autoremove
+   79  ./studio.sh 
+   80  exo-open --launch FileManager
+   81  apt update
+   82  apt-get install postgresql postgresql-contrib
+   83  sudo su - postgres
+   84  apt upgrade
+   85  apt dist-upgrade
+   86  exiy
+   87  exit
+   88  ./studio.sh 
+   89  ./spoon..sh
+   90  ./spoon.sh
+   91  git init
+   92  git add *
+   93  git commit -m "dicoding"
+   94  git remote add origin "https://github.com/pranendra/lulus-dicoding.git"
+   95  git pull origin master
+   96  git pull origin master --allow-unrelated-histories
+   97  git push origin master
+   98  apt update
+   99  apt upgrade
+  100  apt dist-upgrade
+  101  apt autoremove
+  102  exo-open --launch FileManager %u
+  103  exo-open --launch FileManager
+  104  apt update
+  105  apt upgrade
+  106  apt dist-upgrade
+  107  apt install libreoffice
+  108  apt upgrade
+  109  apt update
+  110  apt upgrade
+  111  apt dist-upgrade
+  112  apt autoremove
+  113  apt update
+  114  apt install okular
+  115  apt 
+  116  apt update
+  117  apt upgrade
+  118  apt update
+  119  apt upgrade
+  120  apt install inkscape
+  121  apt install gparted
+  122  exo-open --launch FileManager %u
+  123  exo-open --launch FileManager
+  124  apt update
+  125  apt upgrade
+  126  apt dist-upgrade
+  127  apt autoremove
+  128  apt update
+  129  apt upgrade
+  130  apt update
+  131  apt upgrade
+  132  apt dist-upgrade
+  133  apt autoremove
+  134  apt install adobe-flashplugin browser-plugin-freshplayer-pepperflash
+  135  apt update
+  136  apt install adobe-flashplugin browser-plugin-freshplayer-pepperflash
+  137  apt upgrade
+  138  apt dist-upgrade
+  139  apt autoremove
+  140  apt update
+  141  apt upgrade
+  142  apt dist-upgrade
+  143  apt autoremove
+  144  apt update
+  145  apt upgrade
+  146  apt dist-upgrade
+  147  apt autoremove
+  148  apt update
+  149  apt upgrade
+  150  apt dist-upgrade
+  151  apt autoremove
+  152  reboot
+  153  apt update
+  154  apt upgrade
+  155  apt dist-upgrade
+  156  apt autoremove
+  157  apt update
+  158  apt install composer
+  159  apt install git
+  160  apt-get install php5-json
+  161  composer global require "laravel/installer=~1.1"
+  162  exit
+  163  sudo apt-get install php7.0-zip
+  164  sudo apt-get install php7.4-zip
+  165  sudo apt-get install php7.2-zip
+  166  exit
+  167  sudo nano /etc/apache2/sites-available/sampledomain.com.conf
+  168  systemctl status apache2
+  169  update-alternatives --set php
+  170  update-alternatives --set php /opt/lampp/bin/php-7.3.6
+  171  update-alternatives --set php /opt/lampp/bin/php
+  172  apt install apache
+  173  apt install apache2
+  174  apache2 -version
+  175  ufw app list
+  176  ufw allow 'Apache
+  177  ufw allow 'Apache'
+  178  ufw status
+  179  systemctl status apache2
+  180  hostname -I
+  181  systemctl stop apache2
+  182  hostname -I
+  183  systemctl status apache2
+  184  systemctl start apache2
+  185  hostname -I
+  186  sudo su
+  187  apt install php-7.4.3
+  188  apt install php-7.4
+  189  apt install php
+  190  apt install php7.4
+  191  apt install python-software-properties
+  192  add-apt-repository ppa:ondrej/php
+  193  exit
+  194  apt install pkg-config
+  195  ./configure 
+  196  apt install libxml-2.0
+  197  apt install libxml2.0
+  198  apt install libxml2-dev
+  199  ./configure 
+  200  apt install sqlite3
+  201  ./configure 
+  202  apt install libsqlite3-dev
+  203  apt-cache policy sqlite3
+  204  ./configure 
+  205  update-alternatives --set php
+  206  update-alternatives --set php /user/bin/php7.4
+  207  update-alternatives --set php /user/bin/php
+  208  apt show php -a
+  209  make
+  210  make install
+  211  update-alternatives --set php /usr/local/bin/php
+  212  update-alternatives --set php /usr/bin/php
+  213  php -v
+  214  apt install php7.4-zip
+  215  apt install php-zip
+  216  php artisan serve
+  217  php artisan key
+  218  php artisan serve
+  219  cd LaravelProject/
+  220  ls
+  221  cd blog/
+  222  php artisan serve
+  223  ls
+  224  cd ../
+  225  ls
+  226  cd blog/
+  227  ls
+  228  ls -a
+  229  exit
+  230  apt install libeay32
+  231  service apache2 stop
+  232  apt update
+  233  apt upgrade
+  234  apt dist-upgrade
+  235  apt autoremove
+  236  exit
+  237  ls
+  238  ./UnityHub.AppImage 
+  239  exit
+  240  apt update
+  241  apt install blender
+  242  exit
+  243  apt update
+  244  apt upgrade
+  245  apt dist-upgrade
+  246  exit
+  247  service stop apache2
+  248  services stop apache2
+  249  systemctl stop apache2
+  250  apt update
+  251  apt upgrade
+  252  apt dist-upgrade
+  253  apt autoremove
+  254  apt remove blender
+  255  apt autoremove
+  256  python3 setup.py install
+  257  exit
+  258  python3 setup.py install
+  259  chmod +x setup.py
+  260  python3 setup.py install
+  261  ls
+  262  chmod +x setup.cfg
+  263  ./setup.cfg
+  264  ./setup.py
+  265  make install
+  266  composer create-project --prefer-dist laravel/laravel tugaslaravel "6.*"
+  267  php artisan serve
+  268  php artisan ser
+  269  exit
+  270  php artisan serve
+  271  systemctl stop apache2
+  272  cd ..
+  273  ls
+  274  ls -la
+  275  chmod +rwx tugaslaravel
+  276  ls -la
+  277  chown -R evan:evan tugaslaravel
+  278  chown -R evanz:evanz tugaslaravel
+  279  cd tugaslaravel/
+  280  chown -R $USER:www-data storage
+  281  chown -R $USER:www-data bootstrap/cache
+  282  chmod -R 775 storage
+  283  chmod -R 775 bootstrap/cache
+  284  php artisan key
+  285  sudo chgrp -R www-data storage bootstrap/cache
+  286  sudo chmod -R ug+rwx storage bootstrap/cache
+  287  history >> history.txt
+  288  exit
+  289  chown www-data:www-data laravel.log
+  290  cd ../..
+  291  chmod -R 777 project3/storage/
+  292  chmod -R 777 storage/
+  293  chmod -R 777 bootstrap/cache/
+  294  history >> history.txt
