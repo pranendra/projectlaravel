@@ -31,6 +31,7 @@
 				<input type="hidden" name="id_barang" value="{{ $p->id_barang }}"> <br/>
 				Kode Barang <input type="text" required="required" name="kode_barang" value="{{ $p->kode_barang }}"> <br/>
 				Nama Barang <input type="text" required="required" name="nama_barang" value="{{ $p->nama_barang }}"> <br/>
+				Tanggal <input type="date" required="required" name="tanggal" value="{{ $p->tanggal }}"> <br/>
 				Harga Pokok <input type="number" required="required" name="harga_pokok" value="{{ $p->harga_pokok }}"> <br/>
 				Harga Jual <input type="number" required="required" name="harga_jual" value="{{ $p->harga_jual }}"> <br/>
         		Jumlah Awal <input type="number" required="required" name="jumlah_awal" value="{{ $p->jumlah_awal }}"> <br/>

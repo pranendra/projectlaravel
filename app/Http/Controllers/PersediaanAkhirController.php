@@ -10,10 +10,10 @@ class PersediaanAkhirController extends Controller
     public function index()
     {
     	// mengambil data dari table persediaanakhir
-    	$persediaanakhir = DB::table('persediaanakhir')->get();
+		$persediaanakhir = DB::table('persediaanakhir')->paginate(15);
  
-    	// mengirim data persediaan ke view index
-    	return view('index',['persediaanakhir' => $persediaanakhir]);
+    	// mengirim data persediaanbarang ke view index
+		return view('index',['persediaanakhir' => $persediaanakhir]);
 	}
 	
 	// method untuk menampilkan view form tambah persediaanakhir
@@ -30,6 +30,7 @@ class PersediaanAkhirController extends Controller
 		DB::table('persediaanakhir')->insert([
 			'kode_barang' => $request->kode_barang,
 			'nama_barang' => $request->nama_barang,
+			'tanggal' => $request->tanggal,
 			'harga_pokok' => $request->harga_pokok,
 			'harga_jual' => $request->harga_jual,
 			'jumlah_awal' => $request->jumlah_awal,
@@ -61,6 +62,7 @@ class PersediaanAkhirController extends Controller
 		DB::table('persediaanakhir')->where('id_barang',$request->id_barang)->update([
 			'kode_barang' => $request->kode_barang,
 			'nama_barang' => $request->nama_barang,
+			'tanggal' => $request->tanggal,
 			'harga_pokok' => $request->harga_pokok,
 			'harga_jual' => $request->harga_jual,
 			'jumlah_awal' => $request->jumlah_awal,

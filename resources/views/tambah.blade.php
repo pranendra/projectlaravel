@@ -32,6 +32,7 @@
 				{{ csrf_field() }}
 				Kode Barang <input type="text" name="kode_barang" required="required"> <br/>
 				Nama Barang <input type="text" name="nama_barang" required="required"> <br/>
+				Tanggal <input type="date" name="tanggal" required="required"> <br/>
 				Harga Pokok <input type="number" name="harga_pokok" required="required"> <br/>
 				Harga Jual <input type="number" name="harga_jual" required="required"> <br/>
         		Jumlah Awal <input type="number" name="jumlah_awal" required="required"> <br/>
